@@ -5,6 +5,8 @@ This Node.js command-line application generates a logo based on user input and s
 
 ![example logo](image.png)
 
+[Demo Video](https://youtu.be/ebKppID-RME)
+
 ## Author
 
 Scott Okamoto

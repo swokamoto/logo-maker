@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inquirer = require("inquirer");
-const logoGenerator = require('./lib/shapes.js');
+const { logoGenerator, Shape, Circle, Square, Triangle } = require('./lib/shapes');
 
 inquirer
         .prompt([
